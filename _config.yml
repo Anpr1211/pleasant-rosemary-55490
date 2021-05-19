@@ -1,0 +1,8 @@
+name: Gearoid O'Connor
+markdown: redcarpet
+exclude:
+  - node_modules
+  - gulpfile.js
+  - package.json
+baseurl: ''
+url: ''
